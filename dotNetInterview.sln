@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContraAndCovar", "ContraAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContraAndCovar2", "ContraAndCovar2\ContraAndCovar2.csproj", "{6F682650-FD25-4ADA-8DB2-B6EE3963CA3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContraAndCovar3", "ContraAndCovar3\ContraAndCovar3.csproj", "{81A32124-F6E8-4169-843F-DA15065BD8C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F682650-FD25-4ADA-8DB2-B6EE3963CA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F682650-FD25-4ADA-8DB2-B6EE3963CA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F682650-FD25-4ADA-8DB2-B6EE3963CA3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A32124-F6E8-4169-843F-DA15065BD8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A32124-F6E8-4169-843F-DA15065BD8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A32124-F6E8-4169-843F-DA15065BD8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A32124-F6E8-4169-843F-DA15065BD8C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
